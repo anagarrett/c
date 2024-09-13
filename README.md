@@ -1,2 +1,2 @@
 # c
-Primeiro passos com a linguagem C
+:computer: Primeiro passos com a linguagem C
