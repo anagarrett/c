@@ -6,4 +6,6 @@ Aprenda **Linguagem C** de forma simples e descontraída. Este curso também ens
 
 ### Apresentação
 [![Curso primeiros passos com a Linguagem C](http://img.youtube.com/vi/COgylca8qYw/0.jpg)](http://www.youtube.com/watch?v=COgylca8qYw "Asssistir no YouTube")
+### Matricule-se grátis
+[aulaead](https://www.aulaead.com/collections/courses)
 
